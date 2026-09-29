@@ -1,0 +1,1 @@
+export default function BookPage(){return <section className="section"><div className="eyebrow">Book</div><h1>Von der Idee bis zum ersten Backlog</h1><p className="lead">Why delivery should start later than most teams think.</p><div className="flow">Idea → Problem → Evidence → Learning → Product → First Backlog</div></section>}

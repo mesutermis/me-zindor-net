@@ -1,0 +1,1 @@
+export default function ContactPage(){return <section className="section"><div className="eyebrow">Contact</div><h1>Tell me what you're trying to build, change or improve.</h1><p className="lead">Company / Organisation · Founder / Startup · Risky Projects · Goodwill / Volunteer · Speaking / Book / Collaboration</p></section>}
